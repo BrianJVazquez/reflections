@@ -1,0 +1,5 @@
+Lesson 2 Reflections
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is different from the repository and working directory in that it only connects the files that you want to commit to the repository that you want to commit them to. This helps in not complicating the process of commits to a directory so that every files does not appear in each HEAD.
+
