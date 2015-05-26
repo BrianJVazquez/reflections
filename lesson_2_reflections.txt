@@ -14,3 +14,6 @@ They help visualize the tree associated with your master branch and created bran
 
 What is the result of mergin two branches together? Why do we represent it in the diagram the way we do?
 The result for mergin two branches together will combine the changes made on one branch to the other branch by using a recursive technique used by git. It is important to represent it in a visual diagram because it would show the locations of the branches where they merge and what they share in common with each other.
+
+What are the pros and cons of Git's automatic mergin vs. always doing merges manually?
+Automatic mergin will show many conflics associated with files that show redundant data or modified data that the algorithm cannot know what changes will remain in the master while in manual mergin, it is up to the authors of which lines will stay in the master branch.
