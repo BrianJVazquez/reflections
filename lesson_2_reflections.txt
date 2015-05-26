@@ -8,3 +8,6 @@ By adding one file at a time, we can use the staging area to compare updated fil
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Some situtations would include exploring new ideas that you may want to add without affecting your original branch. Other situations may be if you want to creat another version of the project or file that may have similar features.
+
+How do the diagrams help you visualize the branch structure?
+They help visualize the tree associated with your master branch and created branches from the master (HEAD). They also help you see where in the project you are currently editing.
