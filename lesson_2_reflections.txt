@@ -11,3 +11,6 @@ Some situtations would include exploring new ideas that you may want to add with
 
 How do the diagrams help you visualize the branch structure?
 They help visualize the tree associated with your master branch and created branches from the master (HEAD). They also help you see where in the project you are currently editing.
+
+What is the result of mergin two branches together? Why do we represent it in the diagram the way we do?
+The result for mergin two branches together will combine the changes made on one branch to the other branch by using a recursive technique used by git. It is important to represent it in a visual diagram because it would show the locations of the branches where they merge and what they share in common with each other.
