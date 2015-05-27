@@ -13,3 +13,6 @@ The benefit of havinga a last known state of a remote stored locally is that you
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would collaborate with others using google drive, one note, and dropbox by uploading updated files that I have changed and deleting old files. Though this was very time and space consuming, without GitHub, this was the solution that we had while working with our project. Without Git, I would save multiple projects and name them differently in order to assume version control. Git and GitHub is a much faster and effficient way to collaborate and follow version control practices in order to save time and make changes that I would probably not have done to other methods (google drive, etc.) of version control. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I would want to make changes to a separate branch when I would be working with someone else and want to incorporate features that we would be testing off the main branch. This way we can always go back to the master branch if we run into problems.
