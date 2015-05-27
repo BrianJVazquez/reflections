@@ -10,3 +10,6 @@ A fork is a clone of a repository and its history within the GitHub environment.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 The benefit of havinga a last known state of a remote stored locally is that you can have the changes while you are currently editing and can commit without having to worry about merging conflicts.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would collaborate with others using google drive, one note, and dropbox by uploading updated files that I have changed and deleting old files. Though this was very time and space consuming, without GitHub, this was the solution that we had while working with our project. Without Git, I would save multiple projects and name them differently in order to assume version control. Git and GitHub is a much faster and effficient way to collaborate and follow version control practices in order to save time and make changes that I would probably not have done to other methods (google drive, etc.) of version control. 
